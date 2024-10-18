@@ -1,0 +1,11 @@
+.tabContainer {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  padding: 16px;
+  background-color: #323232;
+}
+
+.tabContainer button {
+  padding: 4px;
+}

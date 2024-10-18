@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 32px;
+}
+
+.container div {
+  display: flex;
+  gap: 8px;
+}
+.container div button {
+  padding: 4px;
+}
